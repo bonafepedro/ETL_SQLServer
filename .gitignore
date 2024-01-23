@@ -1,0 +1,5 @@
+*.csv
+*.txt
+entorno/
+TEMP_DATA/
+ETL.py
