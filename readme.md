@@ -23,6 +23,8 @@ Para ejecución con ambiente windows y directamente haciendo doble click a la ap
 
 Estructura del proyecto:
 
+```
+
 Altamira/
 │   ├── DATA/
 │       ├── ARG_UDO_restodelnombre.txt
@@ -48,7 +50,7 @@ Altamira/
 |   ├── Dockerfile
 |   └── otros_archivos...
 
-
+```
 
 Saludos: 
 
